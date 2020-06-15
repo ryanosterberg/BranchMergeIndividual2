@@ -1,0 +1,54 @@
+﻿Activity #1 – Branch and Merge
+One at a Time
+
+Activity Overview
+Repeat the following for each member of your team
+	A. Branch from dev(rt click on dev branch from here)
+	B. Push the changes to the branch
+
+1. Add a text file to the project
+	• Right click inside the repo folder within File Explorer
+	• Choose new Add
+	• Text Document- You must give the file a unique name!!!
+
+2. Add your name to the text file.
+
+3. Save your changes.
+
+4. Commit your changes (In GitKraken, click on the WIP line, stage all changes, give a summary and description, commit changes)
+
+5. Push to your branch
+
+6. Fetch All (This makes sure your graph is up to date with all of the changes from your team mates).
+
+7. Merge Dev into your branch (ORDER IS IMPORTANT!!!)
+   Drag dev onto your branch (This message shows that your branch has the latest version of dev in it).
+   Hit escape.
+
+8. Make a pull Request
+   Pull Request-plus symbol
+   Left = Merge From
+   Right = Merge Into
+   Fill all fields
+   Create Pull Request
+
+9. All Team members - go to GitHub - click Pull Requests - view Files Changed
+   Review Changes (Examine/Test Changes)
+   Comment
+   Approve
+   Submit Review
+
+10. Once the team members approve the pull request, the person that made the merge request completes the merge and deletes the old branch.
+
+11. Delete the old branch.
+
+12. Everyone - go back to GitKraken - click Fetch All - Check out the latest copy of dev (This resets local to here)
+
+Review of Activity #1
+	Repeat for each member of your team.
+	1. Branch from dev
+	2. Add a unique file to the project
+	3. Commit your changes and push to your branch
+	4. Merge Dev into your branch
+	5. Make a Pull Request
+	6. Once approved by the team, merge, delete your branch
